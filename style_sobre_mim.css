@@ -1,0 +1,67 @@
+header {
+	background: #6c57e2;
+	padding: 40px 0px;
+    text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	padding: 0 20px;
+    right: 0;
+}
+
+nav li {    
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #C78C19;
+	text-decoration: underline;
+}
+
+body
+
+.principal {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center;
+	font-size: 25px
+}
+
+p {
+	text-align: justify;
+	font-size: 20px
+}
+
+footer {
+	text-align: center;
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #000000;
+	text-align: center;
+	font-size: 13px;
+	margin: 40px;
+}
